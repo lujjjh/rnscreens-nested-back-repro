@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Nested back repro",
+    "slug": "rnscreens-nested-back-repro",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.example.nestedbackrepro"
+    }
+  }
+}

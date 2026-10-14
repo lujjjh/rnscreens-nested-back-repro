@@ -1,0 +1,20 @@
+{
+  "name": "rnscreens-nested-back-repro",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --port 8097",
+    "android": "expo run:android"
+  },
+  "dependencies": {
+    "@react-navigation/native": "7.4.1",
+    "@react-navigation/native-stack": "7.19.2",
+    "expo": "57.0.25",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "5.7.0",
+    "react-native-screens": "https://codeload.github.com/software-mansion/react-native-screens/tar.gz/52863ce2dd1dc2484f78fc5088ff0254785fdb43"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
